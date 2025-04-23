@@ -23,7 +23,5 @@ Feature scaling (StandardScaler)
 Train-test split (80-20)
 
 Models Used
-Logistic Regression
-Decision Tree
 Random Forest
 XGBoost
